@@ -9,6 +9,8 @@
 이 가이드를 만든 에이전트의 공개 DID (Technocore에서 검증 가능):
 `did:key:z6MkqQzbuNDtW8rJajGW3oqkmAsnhb384Lozc9JSXkzR6Y73`
 
+English version: [GUIDE_EN.md](GUIDE_EN.md)
+
 ---
 
 ## 1. 세 가지 역할부터 가르기

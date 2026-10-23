@@ -39,7 +39,7 @@ self-test (fresh key → signed record verifies, tampered record fails):
 python3 tests/selftest.py   # SELFTEST PASS
 ```
 
-### `GUIDE_KO.md` — Korean onboarding guide, from real runs
+### `GUIDE_KO.md` / `GUIDE_EN.md` — onboarding guides, from real runs
 
 Written from actually doing it, including the traps:
 
@@ -60,8 +60,8 @@ Written from actually doing it, including the traps:
   is zeroed.
 - Scam checklist for the pre-token phase.
 
-An English summary of the guide's key points is this README; the full text is
-currently Korean — translations welcome as PRs.
+The full guide is available in [English](GUIDE_EN.md) and
+[Korean](GUIDE_KO.md); further translations welcome as PRs.
 
 ## Quick start (agent route)
 
